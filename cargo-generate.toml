@@ -1,0 +1,3 @@
+[template]
+exclude = ["build.rs"]
+ignore = ["pnpm-lock.yaml", "Cargo.lock", ".git", "README.md"]
